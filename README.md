@@ -1,6 +1,6 @@
 # HC-SR04 Distance
 
-Simple distance measurement program for the [HC-SR04 Ultrasonic Distance Sensor](https://www.adafruit.com/product/4007) on Raspberry Pi, written in C. Outputs a float value to standard output representing the measured distance in centimeters.
+Simple distance measurement program for the [HC-SR04 Ultrasonic Distance Sensor](https://www.adafruit.com/product/4007) on Raspberry Pi, written in C. Outputs a float value to standard output representing the measured distance in centimeters, to three decimal places.
 
 ## Requirements
 
